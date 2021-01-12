@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <h1>Hello World</h1>
+
+        // Youtube iFrame
+        <iframe width="560" height="315" src="https://youtu.be/8H-VddO2xMA">
+
+        // Google map iFrame
+        <iframe src="https://goo.gl/maps/QBPmSADxYn4k86nc7">
+        
+        // Spotify music iFrame
+        <iframe src="https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D">
+
+        // Youtube iFrame #starting at 3 min
+        <iframe width="320" height="240" src="https://www.youtube.com/embed/7DuUbB27IEQ?start=180" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>">
+
+        // Mp4 video
+        <video autoplay controls>
+            <source src="movie.mp4" type="video/mp4">
+            <source src="movie.ogg" type="video/ogg">
+        </video>
+
+        // jpg Image
+        <img src="INFO 101/UWsuzzallolibrary.jpg" width="300" height="200">
+        </img>
+
+    </body>
+</html>
